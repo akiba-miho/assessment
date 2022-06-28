@@ -1,0 +1,20 @@
+body{
+  font-family: 'Kaisei Opti', serif;
+  background-color: #e5efe7;
+  color: #23967F;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button:hover{
+  background-color: #a9ccea;
+}
+button{
+  padding: 5px 20px;
+  background-color: #ffffff;
+  border-style: none;
+  color: #23967F;
+}
+input{
+  height: 20px;
+}
